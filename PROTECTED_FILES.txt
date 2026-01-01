@@ -1,0 +1,15 @@
+Protect these paths in GitHub Classroom:
+
+- angular.json
+- package.json
+- package-lock.json
+- tsconfig*.json
+- karma.conf.js
+- .eslintrc.json
+- .prettierrc
+- .editorconfig
+- .github/**
+
+Students should work in:
+- src/app/lessons/**
+- src/app/shared/**
